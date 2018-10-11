@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StackByArray
+comment1.params=
+comment1.target=StackByArray()
+comment2.params=capacity
+comment2.target=StackByArray(int)
+comment3.params=
+comment3.target=int\ size()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=e
+comment5.target=void\ push(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.Object\ top()
+comment7.params=
+comment7.target=java.lang.Object\ pop()
+comment8.params=cap
+comment8.target=void\ resize(int)
+numComments=9

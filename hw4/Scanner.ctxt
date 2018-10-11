@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Scanner
+comment1.params=c
+comment1.target=boolean\ isWhiteSpace(char)
+comment2.params=c
+comment2.target=boolean\ isDigit(char)
+comment3.params=c
+comment3.target=boolean\ isAlpha(char)
+comment4.params=str
+comment4.target=Scanner(java.lang.String)
+comment5.params=
+comment5.target=java.util.Iterator\ iterator()
+numComments=6
