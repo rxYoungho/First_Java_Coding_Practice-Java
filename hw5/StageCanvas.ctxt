@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StageCanvas
+comment1.params=stage
+comment1.target=StageCanvas(SnakeWorld)
+comment2.params=
+comment2.target=void\ repaint()
+comment3.params=gc\ pos\ color
+comment3.target=void\ drawCell(javafx.scene.canvas.GraphicsContext,\ SnakeWorld.Pos,\ javafx.scene.paint.Color)
+numComments=4

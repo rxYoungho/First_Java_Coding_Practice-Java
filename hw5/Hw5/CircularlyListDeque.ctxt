@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=CircularlyListDeque
+comment1.params=
+comment1.target=CircularlyListDeque()
+comment10.params=
+comment10.target=java.util.Iterator\ iterator()
+comment11.params=b
+comment11.target=void\ onFalseThrow(boolean)
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ size()
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=java.lang.Object\ first()
+comment5.params=
+comment5.target=java.lang.Object\ last()
+comment6.params=e
+comment6.target=void\ addFirst(java.lang.Object)
+comment7.params=e
+comment7.target=void\ addLast(java.lang.Object)
+comment8.params=
+comment8.target=java.lang.Object\ removeFirst()
+comment9.params=
+comment9.target=java.lang.Object\ removeLast()
+numComments=13

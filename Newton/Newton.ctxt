@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Newton
+comment1.params=f\ x
+comment1.target=double\ newton(Newton.Func,\ double)
+comment2.params=x
+comment2.target=double\ sqrt(double)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
