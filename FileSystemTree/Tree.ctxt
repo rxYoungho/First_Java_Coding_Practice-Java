@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Tree
+comment1.params=
+comment1.target=Position\ root()
+comment10.params=
+comment10.target=java.util.Iterator\ iterator()
+comment11.params=
+comment11.target=java.lang.Iterable\ positions()
+comment2.params=p
+comment2.target=Position\ parent(Position)
+comment3.params=p
+comment3.target=java.lang.Iterable\ children(Position)
+comment4.params=p
+comment4.target=int\ numChildren(Position)
+comment5.params=p
+comment5.target=boolean\ isInternal(Position)
+comment6.params=p
+comment6.target=boolean\ isExternal(Position)
+comment7.params=p
+comment7.target=boolean\ isRoot(Position)
+comment8.params=
+comment8.target=int\ size()
+comment9.params=
+comment9.target=boolean\ isEmpty()
+numComments=12
