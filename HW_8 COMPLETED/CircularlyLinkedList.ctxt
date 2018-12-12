@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=CircularlyLinkedList
+comment1.params=
+comment1.target=CircularlyLinkedList()
+comment10.params=
+comment10.target=java.lang.Object\ removeLast()
+comment2.params=
+comment2.target=java.util.Iterator\ iterator()
+comment3.params=
+comment3.target=int\ size()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=
+comment5.target=java.lang.Object\ first()
+comment6.params=
+comment6.target=java.lang.Object\ last()
+comment7.params=e
+comment7.target=void\ addFirst(java.lang.Object)
+comment8.params=e
+comment8.target=void\ addLast(java.lang.Object)
+comment9.params=
+comment9.target=java.lang.Object\ removeFirst()
+numComments=11

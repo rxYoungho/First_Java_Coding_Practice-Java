@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=
+comment2.target=void\ onTimeline()
+comment3.params=
+comment3.target=void\ onPlayPause()
+comment4.params=ke
+comment4.target=void\ onKeyStroke(javafx.scene.input.KeyEvent)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

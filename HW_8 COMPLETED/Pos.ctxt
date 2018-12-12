@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Pos
+comment1.params=x\ y
+comment1.target=Pos(int,\ int)
+comment2.params=x\ y\ d
+comment2.target=Pos(int,\ int,\ int)
+comment3.params=pos
+comment3.target=boolean\ equals(Pos)
+comment4.params=pos
+comment4.target=int\ compareTo(Pos)
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StageCanvas
+comment1.params=world
+comment1.target=StageCanvas(application.World)
+comment2.params=
+comment2.target=void\ repaint()
+comment3.params=gc\ pos
+comment3.target=void\ drawDot(javafx.scene.canvas.GraphicsContext,\ application.Pos)
+comment4.params=gc\ pos\ dir\ imgIndex
+comment4.target=void\ drawImage(javafx.scene.canvas.GraphicsContext,\ application.Pos,\ int,\ int)
+comment5.params=gc\ pos\ dir\ imgIndex\ bm
+comment5.target=void\ drawImage(javafx.scene.canvas.GraphicsContext,\ application.Pos,\ int,\ int,\ javafx.scene.effect.BlendMode)
+comment6.params=x
+comment6.target=boolean\ validX(int)
+comment7.params=y
+comment7.target=boolean\ validY(int)
+comment8.params=gc\ pos
+comment8.target=void\ drawWall(javafx.scene.canvas.GraphicsContext,\ application.Pos)
+numComments=9
